@@ -1,6 +1,11 @@
 # For Any issues contact:
 # yc2349@ac.ic.uk
-
+# coding: UTF-8
+#
+# Author:   Yassine Charouif
+# Contact:  https://github.com/gems-yc4923/PyComposer/issues
+#
+# Feel free to contact for any information.
 
 import numpy as np
 from vmdpy import VMD # type: ignore
