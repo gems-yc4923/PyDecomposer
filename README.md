@@ -23,7 +23,7 @@ Here's a quick example of how to use PyComposer:
 
 ```python
 import numpy as np
-from pycomposer import DecompositionModel
+from pydecomposer import DecompositionModel
 
 # Generate a sample signal
 t = np.linspace(0, 1, 1000)
