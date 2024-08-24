@@ -14,7 +14,7 @@ PyDecomposer is a Python package for advanced signal decomposition using Variati
 You can install PyComposer using pip:
 
 ```bash
-pip install pycomposer
+pip install pydecomposer
 ```
 
 ## Usage
@@ -40,9 +40,9 @@ high_freq, medium_freq, low_freq, residual = model.get_signals()
 
 ```
 
-## Documentation
+## GitHub
 
-For more detailed information about the API and its usage, please refer to the [full documentation](link_to_your_documentation).
+For more detailed information please visit the GitHub Repo [full documentation](https://github.com/gems-yc4923/PyDecomposer).
 
 ## Dependencies
 
