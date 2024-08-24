@@ -1,0 +1,10 @@
+LICENSE
+README.md
+setup.py
+pydecomposer/__init__.py
+pydecomposer/pydecomposer.py
+pydecomposer.egg-info/PKG-INFO
+pydecomposer.egg-info/SOURCES.txt
+pydecomposer.egg-info/dependency_links.txt
+pydecomposer.egg-info/requires.txt
+pydecomposer.egg-info/top_level.txt

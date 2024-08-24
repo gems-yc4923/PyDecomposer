@@ -1,0 +1,5 @@
+numpy
+vmdpy
+EntropyHub
+PyEMD
+matplotlib
